@@ -6,12 +6,13 @@ Our conv
 
 no bad touch principle
 play from left to right (except 1s)
+dda
 
 
 first round 3-4 complement right to left
 
 
-def late game:
+def late game:#to do
 
 
 
